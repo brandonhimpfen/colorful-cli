@@ -1,0 +1,29 @@
+{
+  "name": "colorful-cli",
+  "version": "1.0.0",
+  "description": "Add color and font weight to your command line output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/colorful-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "color",
+    "font",
+    "command line"
+  ],
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/colorful-cli/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/colorful-cli#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "devDependencies": {}
+}
